@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, My name is Leilany Torres Diaz and I am currently an RA in the Phelps Lab at Harvard University, previously a part of the first Kempner Institute Postbac Program. I was trained by the Vision Lab at Harvard University for two years gaining a computational foundation in DNN models and vision models. My previous work included DNN encoding model alignment with the human ventral stream analyzing the alignment with the human lower and higher visual system by accessing benchmark platforms like Brainscore. Since then my research interests have expanded to systems neuroscience and specifically understanding functional connectivity and when it goes awry in psychopathology by integrating systems neuroscience, computational cognitive neuroscience and computational psychiatry. Here is a link to my [github projects](https://github.com/Leilanyt) and am working on using foundation models for fMRI to create better predictive models of psychopathology. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
