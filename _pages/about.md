@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <p style="text-align: center;">
-  <img src="{{ '/assets/img/personal_website_logo.png' | relative_url }}" alt="LTD brain logo" style="width: 120px; height: 120px;">
+  <img src="{{ 'personal_website_logo.png' | relative_url }}" alt="LTD brain logo" style="width: 120px; height: 120px;">
 </p>
 
 
