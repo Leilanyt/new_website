@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Harvard University</a>. Kempner Institute Alumni.
+subtitle: <a href='#'>Harvard University</a>, Kempner Institute Alumni
 
 profile:
   align: right
@@ -17,6 +17,10 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+<p style="text-align: center;">
+  <img src="{{ '/assets/img/personal_website_logo.png' | relative_url }}" alt="LTD brain logo" style="width: 120px; height: 120px;">
+</p>
 
 announcements:
   enabled: true # includes a list of news items
