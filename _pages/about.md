@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
 <a href='#'>Harvard University</a>, Kempner Institute Alumni
 <img src="personal_website_logo.png" alt="LTD brain logo" 
-  style="width: 40px; height: 40px; vertical-align: middle; margin-left: 8px;">
+style="width: 40px; height: 40px; vertical-align: middle; margin-left: 8px;">
 
 profile:
   align: right
