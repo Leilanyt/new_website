@@ -5,8 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Leilany_Torres_Diaz_RA_DataAnalyst_CV copy.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
+cv_format: pdf # options: rendercv, jsonresume
+description: My current CV is below.
   sidebar: left
 ---
