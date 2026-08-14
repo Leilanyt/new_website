@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='#'>Harvard University</a>, Kempner Institute Alumni
-  <img src='{{  "/assets/img/personal_website_logo.png" | relative_url }}' alt='LTD brain logo' style='width: 28px; 
-height: 28px; vertical-align: middle; margin-left: 6px;'>"
+  <a href="#">Harvard University</a>, Kempner Institute Alumni
+  <img src='{{ "/assets/img/personal_website_logo.png" | relative_url }}' alt='LTD brain logo' style='width: 28px; height: 28px; vertical-align: middle; margin-left: 6px;'>
+
 
 profile:
   align: right
