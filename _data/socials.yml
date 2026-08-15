@@ -1,10 +1,11 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/Leilany_Torres_Diaz_RA_DataAnalyst_CV copy.pdf # path to your CV PDF file
 email: leilany.torresdiaz@gmail.com # your email address
 inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+#rss_icon: true # comment this line to hide the RSS icon
+linkedin_username: leilany-torres-diaz
 scholar_userid: OSIac-wAAAAJ&hl=en&oi=ao # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
