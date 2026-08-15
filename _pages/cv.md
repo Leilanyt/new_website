@@ -10,7 +10,7 @@ My current CV is available as a PDF.
 
 <a
   class="btn btn-outline-primary"
-  href="/assets/pdf/LTD_CV.pdf"
+  href="{{ '/assets/pdf/LTD_CV.pdf' | relative_url }}"
   target="_blank"
   rel="noopener noreferrer"
 >
