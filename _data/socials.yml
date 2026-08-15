@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/Leilany_Torres_Diaz_RA_DataAnalyst_CV copy.pdf # path to your CV PDF file
 email: leilany.torresdiaz@gmail.com # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
+#inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
 linkedin_username: leilany-torres-diaz
 scholar_userid: OSIac-wAAAAJ # your Google Scholar ID
