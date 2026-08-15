@@ -10,7 +10,7 @@ My current CV is available as a PDF.
 
 <a
   class="btn btn-outline-primary"
-  href="/assets/pdf/Leilany_Torres_Diaz_RA_DataAnalyst_CV%20copy.pdf"
+  href="/assets/pdf/LTD_CV.pdf"
   target="_blank"
   rel="noopener noreferrer"
 >
