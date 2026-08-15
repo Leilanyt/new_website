@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Aversive Learning Extension 
-description: A behavioral Reinforcement Learning Extension Project
-importance: 3
-category: research
-github: https://github.com/Leilanyt/Aversive_Learning_extension
+title: rsFC Predictive Pipeline
+description: A resting state functional connectivity (rsFC) predictive pipeline
+importance: 1
+category: research 
+github: https://github.com/Leilanyt/rsFC-Predictive-Pipeline
 ---
-This is my research extension on the Paper "Associations between aversive learning processes and transdiagnostic psychiatric symptoms in a general population sample" by Toby Wise & Raymond Dolan. This extension for Computational Psychiatry Class is focusing on identifying latent symptom factors form the full questionaire and then verifying if the top models are good predicitive models of the latent factors, with the addition of a new parameter: hesitation.
 
-[View the project on GitHub](https://github.com/Leilanyt/Aversive_Learning_extension)
+This project implements a first version of a resting‑state functional connectivity (rsFC) predictive pipeline using an initial small dataset of (N = 30 participants) from the UCLA Consortium for Neuropsychiatric Phenomics dataset, which includes resting‑state fMRI from healthy controls and individuals with mood and psychotic disorders.
+[View the project on GitHub](https://github.com/Leilanyt/rsFC-Predictive-Pipeline)
 
