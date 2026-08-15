@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Projects I've worked on in the past.
+description: Projects I've worked on in the past :)
 nav: true
 nav_order: 3
 display_categories: research
