@@ -9,11 +9,4 @@ nav_order: 4
 
 My public code and research projects are available on GitHub.
 
-<a
-  class="btn btn-outline-primary"
-  href="https://github.com/Leilanyt"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  View my GitHub profile
-</a>
+[View my GitHub profile](https://github.com/Leilanyt){: .btn .btn-outline-primary target="_blank" rel="noopener noreferrer" }
