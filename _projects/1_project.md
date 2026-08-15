@@ -1,12 +1,14 @@
 ---
 layout: page
-title: rsFC Predictive Pipeline
-description: A resting state functional connectivity (rsFC) predictive pipeline
+title: Network Connectivity tracks Transdiagnostic Psychosis like Symptoms
+description: A resting state functional connectivity (rsFC) predictive pipeline across ADHD, Bipolar & Schizophrenia
 importance: 1
 category: research 
-github: https://github.com/Leilanyt/rsFC-Predictive-Pipeline
+github: https://github.com/Leilanyt/rsFC-Transdiagnostic-Project
 ---
 
-This project implements a first version of a resting‑state functional connectivity (rsFC) predictive pipeline using an initial small dataset of (N = 30 participants) from the UCLA Consortium for Neuropsychiatric Phenomics dataset, which includes resting‑state fMRI from healthy controls and individuals with mood and psychotic disorders.
-[View the project on GitHub](https://github.com/Leilanyt/rsFC-Predictive-Pipeline)
+This project shows a course 7 network connectivity that tracks behavioral psychosis (BPRS) symptoms and predicts connectivity edges across the three diagnosis. Then multiple linear predictive models are brought in to see if they are able to distinguish a reliable association across groups.
+[View the Poster pdf from Computational Psychiatry Conference](https://github.com/Leilanyt/rsFC-Transdiagnostic-Project/blob/main/LTD_CP_Poster_2026_v2.pdf)
+
+[View the project on GitHub](https://github.com/Leilanyt/rsFC-Transdiagnostic-Project)
 
