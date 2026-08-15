@@ -2,7 +2,7 @@
 layout: page
 title: rsFC Predictive Pipeline
 description: A resting state functional connectivity (rsFC) predictive pipeline
-importance: 1
+importance: 2
 category: research 
 github: https://github.com/Leilanyt/rsFC-Predictive-Pipeline
 ---
