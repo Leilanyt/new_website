@@ -1,104 +1,93 @@
 cv:
   name: Leilany Torres Diaz
-  label: Research Associate & Data Analyst
-  email: leilany.torresdiaz@gmail.com
-  location: Cambridge, MA
+  label: "Research Associate & Data Analyst"
+  email: "leilany.torresdiaz@gmail.com"
+  location: "Cambridge, MA"
   image: ""
-  
+  summary: "Research associate and data analyst interested in computational neuroscience, functional connectivity, and machine learning."
+
   social_networks:
     - network: X
-      username: @Leilany__Torres
+      username: "Leilany__Torres"
     - network: BlueSky
-      username: @leilanytorresdiaz.bsky.social
+      username: "leilanytorresdiaz.bsky.social"
     - network: GitHub
-      username: Leilanyt
+      username: "Leilanyt"
     - network: LinkedIn
-      username: Leilany Torres Diaz
-
+      username: "Leilany Torres Diaz"
 
   sections:
-  
     Education:
-     - institution: Harvard University
-        location: Cambridge, MA
-        degree: Kempner Postbac Curriculum
-        area: Computational Neuroscience
-        end_date: July 2026
-        
-      - institution: University of California, Davis
-        location: Davis, CA
-        degree: Bachelors of Science (BS)
-        area: Neurobiology Physiology & Behavior
-       
+      - institution: "Harvard University"
+        location: "Cambridge, MA"
+        area: "Computational Neuroscience"
+        studyType: "Kempner Postbac Curriculum"
+        end_date: "July 2026"
 
+      - institution: "University of California, Davis"
+        location: "Davis, CA"
+        area: "Neurobiology, Physiology & Behavior"
+        studyType: "Bachelor of Science"
     
     Experience:
-
-    
-      - company: Phelps Memory Lab
-        position: RA
-        location: Harvard University
+      - company: "Phelps Memory Lab"
+        position: "Research Assistant"
+        location: "Harvard University"
         start_date: 2026
         end_date: 2027
         highlights:
-          - RA for the Phelps (Harvard) and Kredlow (Tufts) Lab
-          - fMRI training in process
-          - fMRI pre-processing training in progress
-          
-      - company: Kempner Insitute - For the study of Natural & Artificial Intelligence
-        position: Postbac Research Student
-        location: Harvard University
+          - "Research assistant for the Phelps Lab at Harvard and the Kredlow Lab at Tufts."
+          - "Completing fMRI and fMRI preprocessing training."
+
+      - company: "Kempner Institute for the Study of Natural and Artificial Intelligence"
+        position: "Postbac Research Student"
+        location: "Harvard University"
         start_date: 2024
         end_date: 2026
-        summary: First Kempner Cohort trained in intensive research as a Computational Neuroscientist
+        summary: "Member of the first Kempner cohort, receiving intensive training in computational neuroscience research."
         highlights:
-          - Postbac with the Harvard Vision Lab
-          - Research on DNN Vision Ventral Stream Alignment (available in Publications)
+          - "Postbac researcher with the Harvard Vision Lab."
+          - "Research on deep neural network and ventral-stream alignment."
 
-      - company: Norcal Brain Inc
-        position: Neurorehab Coordinator (clinic)
-        location: CA
+      - company: "Norcal Brain Inc."
+        position: "Neurorehabilitation Coordinator"
+        location: "California"
         start_date: 2021
         end_date: 2022
         highlights:
-          - Clinical experience with TBI, autism, anxiety and Vestibular Issues
-          - Collected, organized and maintained clinical data for more than 20 patients per day
+          - "Supported clinical work involving traumatic brain injury, autism, anxiety, and vestibular issues."
+          - "Collected, organized, and maintained clinical data for more than 20 patients per day."
 
-      - company: Tutoring
-        position: STEM & Spanish Tutor
-        location: CA & Remote
+      - company: "Tutoring"
+        position: "STEM and Spanish Tutor"
+        location: "California and remote"
         start_date: 2021
         end_date: 2026
 
-
-   Skills:
-      - name: Research and Data Analysis
-        level: Proficient
-        icon: fa-solid fa-chart-line
+    Skills:
+      - name: "Research and Data Analysis"
+        level: "Proficient"
+        icon: "fa-solid fa-chart-line"
         keywords: "Python, R, fMRI, Functional Connectivity, Machine Learning, DNN"
 
     Projects:
-      - name: rsFC Predictive Pipeline
-        summary: A resting-state functional-connectivity predictive pipeline using fMRI data.
+      - name: "rsFC Predictive Pipeline"
+        summary: "A resting-state functional-connectivity predictive pipeline using fMRI data."
         highlights:
-          - Built an initial pipeline using the UCLA Consortium for Neuropsychiatric Phenomics dataset, and presented at the Computational Psychiatry Conference at Yale University in July 2026.
-
+          - "Built an initial pipeline with the UCLA Consortium for Neuropsychiatric Phenomics dataset and presented it at the Computational Psychiatry Conference at Yale University in July 2026."
 
     Languages:
-      - name: Spanish
-        summary: "Native Speaker"
+      - name: "Spanish"
+        summary: "Native speaker"
 
-      - name: English
-        summary: "Native Speaker"
-        
-      - name: Italian
-        summary: "Beginner Level"
+      - name: "English"
+        summary: "Native speaker"
 
-    
+      - name: "Italian"
+        summary: "Beginner"
+
     Certificates:
-      - name: Research Certificate
+      - name: "Research Certificate"
         date: 2026-05-10
-        issuer: Harvard University
-        icon: fa-solid fa-location-dot
-
- 
+        issuer: "Harvard University"
+        icon: "fa-solid fa-location-dot"
