@@ -2,7 +2,7 @@
 layout: page
 title: Aversive Learning Extension 
 description: A behavioral Reinforcement Learning Extension Project
-importance: 2
+importance: 3
 category: research
 github: https://github.com/Leilanyt/Aversive_Learning_extension
 ---
