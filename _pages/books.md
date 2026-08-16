@@ -2,7 +2,7 @@
 layout: book-shelf
 title: The Book Nook
 permalink: /books/
-nav: false
+nav: true
 collection: books
 ---
 
