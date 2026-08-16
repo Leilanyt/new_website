@@ -1,12 +1,12 @@
-github_users:
-  - leilanyt
+github_users: []
+ 
 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - rsFC-Transdiagnostic-Project
-  - rsFC-Predictive-Pipeline
-  - Aversive_Learning_extension
-  - Neuro240_Project
+  - Leilanyt/rsFC-Transdiagnostic-Project
+  - Leilanyt/rsFC-Predictive-Pipeline
+  - Leilanyt/Aversive_Learning_extension
+  - Leilanyt/Neuro240_Project
 
