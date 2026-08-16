@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Leilany Torres Diaz",
+    "label": "Research Associate & Data Analyst",
+    "email": "leilany.torresdiaz@gmail.com",
+    "location": {
+      "city": "Cambridge",
+      "region": "MA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Leilanyt",
+        "url": "https://github.com/Leilanyt"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "leilany-torres-diaz",
+        "url": "https://www.linkedin.com/in/leilany-torres-diaz/"
+      }
+    ],
+    "summary": "Research assistant and data analyst with experience in neuroimaging pipelines, machine-learning-based neural decoding, and computational psychiatry methods. Experienced in reproducible analysis code, complex fMRI and behavioral datasets, and research support from data collection through presentation."
+  },
+  "work": [
+    {
+      "name": "Kempner Institute, Harvard University",
+      "position": "Neuro-AI Researcher",
+      "location": "Cambridge, MA",
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "highlights": [
+        "Built and maintained Python pipelines to preprocess, parcellate, and analyze fMRI datasets.",
+        "Benchmarked deep vision models against neural responses across visual-cortex regions.",
+        "Used representational similarity analysis, cross-validated model selection, and bootstrapped confidence intervals in reproducible Jupyter workflows.",
+        "Managed analysis code with GitHub and documented pipelines for collaborators.",
+        "Designed behavioral experiments on visual memorability and object recognition, including power analyses and study-design refinement."
+      ]
+    },
+    {
+      "name": "Phelps Memory Lab, Harvard University and Kredlow Lab, Tufts University",
+      "position": "Research Assistant",
+      "location": "Cambridge, MA",
+      "startDate": "2026-01-01",
+      "endDate": "",
+      "highlights": [
+        "Support research activities across the Phelps and Kredlow labs.",
+        "Complete training in fMRI acquisition and fMRI preprocessing."
+      ]
+    },
+    {
+      "name": "Norcal Brain Center",
+      "position": "Neurorehabilitation Coordinator",
+      "location": "San Jose, CA",
+      "startDate": "2021-06-01",
+      "endDate": "2022-09-01",
+      "highlights": [
+        "Collected, organized, and maintained clinical data for more than 20 patients per day across traumatic brain injury, autism, anxiety, and depression presentations.",
+        "Communicated neurophysiology and neurofeedback concepts to patients and families while supporting protocol adherence and engagement."
+      ]
+    },
+    {
+      "name": "Independent Tutoring",
+      "position": "STEM and Spanish Tutor",
+      "location": "California and Remote",
+      "startDate": "2021-01-01",
+      "endDate": "",
+      "highlights": [
+        "Tutored students in chemistry, calculus, STEM subjects, and Spanish using individualized study plans."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Harvard University, Kempner Institute",
+      "area": "Computational Neuroscience",
+      "studyType": "Post-Baccalaureate Researcher",
+      "startDate": "2024-07-01",
+      "endDate": "2026-07-01",
+      "score": "",
+      "courses": [
+        "Biological Artificial Intelligence",
+        "Vision Systems",
+        "Computational Psychiatry"
+      ]
+    },
+    {
+      "institution": "University of California, Davis",
+      "area": "Neurobiology, Physiology and Behavior",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "rsFC Predictive Modeling Pipeline",
+      "description": "Resting-state functional-connectivity classification pipeline using fMRI data.",
+      "url": "https://github.com/Leilanyt/rsFC-Predictive-Pipeline",
+      "highlights": [
+        "Built a Python pipeline to classify healthy controls and bipolar-disorder participants using resting-state fMRI connectivity from the UCLA CNP dataset.",
+        "Used Yeo-Schaefer parcellations, linear SVM classification, and five-fold cross-validation.",
+        "Achieved 73 percent accuracy with a permutation-test result of p = 0.021 and visualized 77 network-level feature weights."
+      ]
+    },
+    {
+      "name": "DNN-Brain Alignment Benchmark",
+      "description": "Benchmark of deep neural networks against fMRI responses across ventral-stream regions.",
+      "url": "https://github.com/Leilanyt/Neuro240_Project",
+      "highlights": [
+        "Evaluated 30 models on fMRI data from 10 participants and 72 stimuli using representational similarity analysis.",
+        "Used split-half cross-validation for layer selection and bootstrapped confidence intervals.",
+        "Found AlexNet matched or outperformed modern architectures across ventral-stream regions."
+      ]
+    },
+    {
+      "name": "Aversive Learning Extension",
+      "description": "Computational psychiatry project examining anxiety and avoidance mechanisms.",
+      "url": "https://github.com/Leilanyt/Aversive_Learning_extension",
+      "highlights": [
+        "Extended a behavioral paradigm with reinforcement-learning models, Bayesian parameter recovery, hierarchical model fitting, and posterior predictive checks.",
+        "Introduced and evaluated a hesitation parameter to represent decision uncertainty in aversive learning."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Ventral Stream Responses to Inanimate Objects Are Equally Aligned with AlexNet 2012 and Modern Deep Neural Networks",
+      "publisher": "Conference on Cognitive Computational Neuroscience",
+      "releaseDate": "2025-01-01",
+      "summary": "Torres Diaz, L., and Alvarez, G. A. Poster presented at CCN, Amsterdam, 2025."
+    },
+    {
+      "name": "Predictive Modeling with DNN Alignment",
+      "publisher": "Computational Psychiatry Conference",
+      "releaseDate": "2026-07-01",
+      "summary": "Accepted poster presentation."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "MLNeuroscience Seminar Series, Kempner Institute",
+      "position": "Organizer",
+      "location": "Harvard University",
+      "startDate": "2024-01-01",
+      "endDate": "2025-01-01",
+      "highlights": [
+        "Recruited speakers, authored technical newsletters, and coordinated a weekly seminar series for 10 months."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming and Data Analysis",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "R",
+        "NumPy",
+        "SciPy",
+        "pandas",
+        "scikit-learn",
+        "PyTorch",
+        "TensorFlow",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Neuroimaging and Signal Processing",
+      "level": "Proficient",
+      "keywords": [
+        "fMRI",
+        "Resting-state fMRI",
+        "Functional connectivity",
+        "RSA",
+        "Nilearn",
+        "Brain-Score",
+        "EEG",
+        "MNE-Python"
+      ]
+    },
+    {
+      "name": "Statistical Methods",
+      "level": "Proficient",
+      "keywords": [
+        "SVM",
+        "Ridge regression",
+        "CNNs",
+        "Cross-validation",
+        "Permutation testing",
+        "Bootstrapping",
+        "Bayesian parameter recovery",
+        "Hierarchical model fitting"
+      ]
+    },
+    {
+      "name": "Research Computing",
+      "level": "Proficient",
+      "keywords": [
+        "Reproducible pipelines",
+        "Jupyter",
+        "VS Code",
+        "Linux",
+        "Bash",
+        "LaTeX",
+        "Slurm"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
