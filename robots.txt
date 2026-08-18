@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leilanytorresdiaz.com/new_website/sitemap.xml
+Sitemap: https://leilanytorresdiaz.com/sitemap.xml
